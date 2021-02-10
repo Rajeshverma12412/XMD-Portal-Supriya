@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmscoMncrData", "AmscoMncrData.csproj", "{4DCE9162-1950-4D2C-8FCA-3C85CF03F992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmscoMcnrDataAccess", "..\AmscoMcnrDataAccess\AmscoMcnrDataAccess.csproj", "{BD2870E7-98C9-4A8D-97C4-422E4D702AF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DCE9162-1950-4D2C-8FCA-3C85CF03F992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCE9162-1950-4D2C-8FCA-3C85CF03F992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCE9162-1950-4D2C-8FCA-3C85CF03F992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCE9162-1950-4D2C-8FCA-3C85CF03F992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2870E7-98C9-4A8D-97C4-422E4D702AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2870E7-98C9-4A8D-97C4-422E4D702AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2870E7-98C9-4A8D-97C4-422E4D702AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2870E7-98C9-4A8D-97C4-422E4D702AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD589274-578B-42EE-A0AB-18F2727C631F}
+	EndGlobalSection
+EndGlobal
